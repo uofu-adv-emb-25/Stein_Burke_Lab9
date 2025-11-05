@@ -22,7 +22,6 @@
 
 | number | invariant |
 |--------|-----------|
-
 | 17     |The power will never be interrupted|
 | 18     |rains on each track only run in one direction.|
 | 19     |Ringing must be happening for the time to elapse |
