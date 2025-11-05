@@ -30,4 +30,6 @@
 | 22     |If a train is present the alarm must be on|
 | 23     |If a train is present the barrier must be down|
 
+![FSM](fsm.jpg)
+
 
