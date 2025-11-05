@@ -1,4 +1,4 @@
-# Stein Witt & Burke Dambly Lab9
+# Stein Witt & Burke Dambly Lab9 
 
 
 | number | arms_down | alarm_on | northbound_present | southbound_present | north_approach | south_approach | north_depart | south_depart | ringing | safety_hazard |
